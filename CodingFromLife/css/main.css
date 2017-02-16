@@ -1,0 +1,150 @@
+body {
+	background: black;
+}
+
+#canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: #21a3d6;
+	position: relative;
+}
+
+
+#orb {
+
+	width: 285px;
+	height: 270px;
+	background: white;
+	top: 130px;
+	left: 350px;
+	bottom:100px;
+	border-radius: 300px;
+	position: absolute;
+	z-index: 10;
+
+
+}
+
+#vase  {
+
+	width: 100px;
+	height: 220px;
+	background: #ECFFB9;
+	bottom: 260px;
+	border-radius: 20px;
+	left:500px;
+	position: absolute;
+	z-index: 7;
+
+
+}
+
+
+#glass    {
+
+	width: 100px;
+	height:90px;
+	background: #DDFF84;
+	border-radius: 20px;
+	top: 150px;
+	left: 1px;
+	position: absolute;
+
+}
+
+#water {
+
+	width: 20px;
+	height: 300px;
+	background: green;
+	top: 20px;
+	bottom: 200px;
+	left: 9px;
+	position: absolute;
+	z-index: 5;
+
+}
+
+#water2 {
+
+	width: 20px;
+	height: 300px;
+	background: green;
+	top: 20px;
+	bottom: 200px;
+	left: -20px;
+	position: absolute;
+	z-index: 5;
+
+}
+
+#flower-container {
+
+	width: 30px;
+	height: 40px;
+	background: orange;
+	border-radius: 40px;
+	top: 10px;
+	left: 1px;
+	position: absolute;
+	z-index: 10;
+	transform: rotate(-12deg);
+	-webkit-transform: rotate(-12deg)
+
+}
+
+#flower-container-2 {
+
+	width: 30px;
+	height: 40px;
+	background: orange;
+	border-radius: 10px;
+	top: -10px;
+	left: -20px;
+	position: absolute;
+	z-index: 10;
+	transform: rotate(5deg);
+	-webkit-transform: rotate(5deg)
+
+}
+
+
+
+#stem {
+
+	width: 90px;
+	height:86px;
+	background: #FF4800;
+	border-radius: 300px;
+	top: 300px;
+	left: 200px;
+	position: absolute;
+
+}
+
+#flower {
+
+	width: 80px;
+	height: 70px;
+	background: #FF4800;
+	border-radius: 250px;
+	top: 180px;
+	left: -250px;
+	position: absolute;
+
+}
+
+#parallelogram {
+	width: 350px;
+	height: 200px;
+	-webkit-transform: skew(20deg);
+	   -moz-transform: skew(20deg);
+	     -o-transform: skew(20deg);
+	top: 200px;
+	left: -200px;
+	background: #D8CEFF;
+    position: absolute;
+    z-index: -20
+}
+

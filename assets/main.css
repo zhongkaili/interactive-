@@ -1,1 +1,21 @@
 /* Put your CSS here! */
+  <style type="text/css">
+  p.normal {font-weight:normal}
+  p.thick {font-weight:bold}
+  p.thicker {font-weight:bolder}
+
+  p.font-italic {font-style:italic;}
+  p.font-normal {font-style:normal;}
+
+  p.small-caps {font-variant: small-caps;}
+
+  p.small {font-size: 12pt}
+  p.normal {font-size: 14pt}
+
+  p.serif{font-family: "monotype",Georgia,Serif}
+
+  p.color-h1{color:#085A0D;}
+  p.color-h2{color:#661C4F;}
+  </style>
+
+
