@@ -1,0 +1,11 @@
+body {
+      font-family: arial, Courier, sarif;
+      font-size: 11pt;
+      text-decoration:none;
+      color: #8CE6FF;
+      font-style:normal;
+      background-image:url("assets/images/red.jpg");
+      background-repeat:repeat-y;
+      background-position:fixed;
+
+}
