@@ -1,5 +1,11 @@
 body {
-	background-color:blue;
+	background-color:#CFCCC1;
+	border: 50px none;
+	border-color: #BECFDB;
+	width:2000px;
+	height:4000px;
+	box-shadow: 30px 500px 60px 90px #9E13FF inset;
+
 }
 
 .author {
@@ -36,7 +42,7 @@ body {
 	width:200px;
 	height:90px;
     box-shadow: 5px 5px 10px 40px #BCF6CF inset;
-background-color: #F9DACB;
+    background-color: #F9DACB;
 }
 
 .re {
@@ -48,6 +54,7 @@ background-color: #F9DACB;
     box-shadow: 5px 5px 40px 40px #F0D8ED inset;
     background-color: #86F0E9;
     word-wrap:break-word;
+    overflow:scroll;
 
 }
 
@@ -62,6 +69,7 @@ background-color: #F9DACB;
 	height:500px;
     box-shadow: 5px 5px 40px 40px pink inset;
     background: #DDD7C8;
+    overflow:scroll;
 
 }
 
@@ -71,25 +79,23 @@ background-color: #F9DACB;
 	right: 0;
 	color:#6FF0BF;
 	border: 30px none;
-	width:800px;
+	width:900px;
 	height:300px;
     box-shadow: 5px 5px 40px 40px #E4CAF0 inset;
     background: #40FF07;
     margin-top:130px;
+    overflow:scroll;
 
 }
 
 .con {
-	top: 50px;
-	padding: 20px;
-	bottom: 0;
-	right: 0;
-	color:pink;
-	border: 30px none;
-	width:1300px;
+	padding:20px;
+	color:#62A360;
+	width:1250px;
 	height:300px;
     box-shadow: 5px 5px 40px 40px #CFE5D2 inset;
     background: #8061ED;
+    margin-top: 10px;
     margin-bottom:300px;
     overflow:scroll;
 }
