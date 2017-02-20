@@ -1,0 +1,16 @@
+
+body {
+	-webkit-animation: background 5s cubic-bezier(1,0,0,1) infinite;
+  animation: background 5s cubic-bezier(1,0,0,1) infinite; 
+  font-family: "mono type", Courier, sarif;
+  color:white;
+}
+
+@keyframes background {
+  20% { background-color: #C1D4FF; }
+  33% { background-color: #A6D3FF; }  
+  67% { background-color: #5D9CCC; }
+  73% { background-color: #4C6A7F; }
+  80% { background-color: #1D3C4F; }
+  85% { background-color: black; }
+}

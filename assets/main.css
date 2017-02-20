@@ -1,21 +1,38 @@
-/* Put your CSS here! */
-  <style type="text/css">
-  p.normal {font-weight:normal}
-  p.thick {font-weight:bold}
-  p.thicker {font-weight:bolder}
+  body {
+  font-size: 10pt;
+  font-family: monospace, times, Serif;
+  color:#085A0D;
+  background-image: url("assets/images/index.jpg");
+  background-size:900px 506px ;
+  background-repeat: no-repeat;
 
-  p.font-italic {font-style:italic;}
-  p.font-normal {font-style:normal;}
+  -webkit-animation: background 3s cubic-bezier(1,0,0,1) infinite;
+  animation: background 3s cubic-bezier(1,0,0,1) infinite; 
 
-  p.small-caps {font-variant: small-caps;}
+  }
 
-  p.small {font-size: 12pt}
-  p.normal {font-size: 14pt}
+@keyframes background {
+  20% { background-color: white; }
+  33% { background-color: #FFFBF5; }  
+  67% { background-color: #EFFBF5; }
 
-  p.serif{font-family: "monotype",Georgia,Serif}
+}
 
-  p.color-h1{color:#085A0D;}
-  p.color-h2{color:#661C4F;}
-  </style>
-
-
+     .title {
+        font-family: Impact, Charcoal, sans-serif;
+        text-transform: uppercase;
+        position: fixed;
+        bottom: -200px;
+        left: 0;
+        font-size: 400px;
+        line-height: 0;
+        width: 1000000000px;
+        z-index: -1000;
+        -webkit-transition: 50s; /* Safari */
+        transition: 30s;
+        color: black;
+      }
+      
+      .title:hover {
+        left: -10000px;
+      }
