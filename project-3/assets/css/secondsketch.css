@@ -1,0 +1,661 @@
+.A 
+{
+   margin: 10px 10px 10px 10px;
+  height: 64px;
+  width:43px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.A:hover 
+{
+  height: 640px;
+  width: 430px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.B 
+{
+  margin: 2px 10px 10px 60px;
+  height: 60px;
+  width: 60px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.B:hover 
+{
+  height: 400px;
+  width: 400px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.C
+{
+  margin: 2px 10px 10px 90px;
+  height: 25px;
+  width: 15px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.C:hover 
+{
+  height: 250px;
+  width: 150px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.D
+{
+  margin: -2px 10px 10px 30px;
+  height: 90px;
+  width: 65px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.D:hover 
+{
+  height: 900px;
+  width: 650px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.E
+{
+  margin: -4px 10px 10px 90px;
+  height: 85px;
+  width: 110px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.E:hover 
+{
+  height: 850px;
+  width: 1100px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.F
+{
+  margin: -4px 10px 10px 100px;
+  height: 233px;
+  width: 146px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.F:hover 
+{
+  height: 2330px;
+  width: 1460px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.G
+{
+  margin: 100px 10px 10px -880px;
+  height: 200px;
+  width: 115px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.G:hover 
+{
+  height: 2000px;
+  width: 1150px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.H
+{
+  margin: 130px 10px 10px -720px;
+  height: 92px;
+  width: 15px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.H:hover 
+{
+  height: 920px;
+  width: 150px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.I
+{
+  margin: 130px 10px 10px -650px;
+  height: 47px;
+  width: 17px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.I:hover 
+{
+  height: 470px;
+  width: 170px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.J
+{
+  margin: 110px 10px 10px -600px;
+  height: 90px;
+  width: 51px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.J:hover 
+{
+  height: 900px;
+  width: 510px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.K
+{
+  margin: 150px 10px 10px -480px;
+  height: 60px;
+  width: 87px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.K:hover 
+{
+  height: 600px;
+  width: 870px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.L
+{
+  margin: 150px 10px 10px -300px;
+  height: 32px;
+  width: 25px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.L:hover 
+{
+  height: 320px;
+  width: 250px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.M
+{
+  margin:  360px 10px 10px -895px;
+  height: 110px;
+  width: 70px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.M:hover 
+{
+  height: 1100px;
+  width: 700px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.N
+{
+  margin:  320px 10px 10px -750px;
+  height: 155px;
+  width: 90px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.N:hover 
+{
+  height: 1100px;
+  width: 700px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.O
+{
+  margin:  270px 10px 10px -620px;
+  height: 40px;
+  width: 25px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.O:hover 
+{
+  height: 400px;
+  width: 250px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.P
+{
+  margin:  300px 10px 10px -570px;
+  height: 100px;
+  width: 90px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.P:hover 
+{
+  height: 1000px;
+  width: 900px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.Q
+{
+  margin:  320px 10px 10px -360px;
+  height: 40px;
+  width: 52.7px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.Q:hover 
+{
+  height: 400px;
+  width: 527px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.R
+{
+  margin:  350px 10px 10px -210px;
+  height: 79.6px;
+  width: 59.7px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.R:hover 
+{
+  height: 796px;
+  width: 597px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.S
+{
+  margin:  540px 10px 10px -850px;
+  height: 50px;
+  width: 88px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.S:hover 
+{
+  height: 500px;
+  width: 800px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.T
+{
+  margin:  540px 10px 10px -720px;
+  height: 83px;
+  width: 22px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.T:hover 
+{
+  height: 830px;
+  width: 220px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.U
+{
+  margin:  570px 10px 10px -650px;
+  height: 16px;
+  width: 78px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.U:hover 
+{
+  height: 160px;
+  width: 780px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.V
+{
+  margin:  500px 10px 10px -520px;
+  height: 29px;
+  width: 32px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.V:hover 
+{
+  height: 290px;
+  width: 320px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.W
+{
+  margin:  540px 10px 10px -400px;
+  height: 15px;
+  width: 50px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.W:hover 
+{
+  height: 150px;
+  width: 500px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.X
+{
+  margin:  520px 10px 10px -300px;
+  height: 51px;
+  width: 20px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.X:hover 
+{
+  height: 510px;
+  width: 200px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.Y
+{
+  margin:  650px 10px 10px -800px;
+  height: 80px;
+  width: 198px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.Y:hover 
+{
+  height: 320px;
+  width: 792px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+.Z
+{
+  margin:  630px 10px 10px -530px;
+  height: 85px;
+  width: 60px;
+  background: white;
+  padding: 0;
+  border:1px solid;
+  border-color: black;
+
+  float: left;
+  -webkit-transition: all ease-out 1s;
+  -moz-transition: all ease-out 1s;
+  -o-transition: all ease-out 1s;
+  transition: all ease-out 1s;
+}
+
+.Z:hover 
+{
+  height: 850px;
+  width: 600px;
+  background: #F9FFF8;
+  padding: 0;
+}
+
+
+
+#info {
+  font-size: 9pt;
+  position: fixed;
+  background: white;
+  padding: 0.25em;
+  bottom: 1em;
+  right: 1em;
+  z-index: -300;
+}
