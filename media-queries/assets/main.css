@@ -1,0 +1,49 @@
+body { background: #72857E; }
+
+@media screen and (max-width: 768px) {
+  body { background: #A1BCB3; }
+}
+
+@media screen and (max-width: 600px) {
+  body { background: #C2E2D7; }
+}
+
+@media screen and (max-width: 480px) {
+  body { background: #D8FCEF; }
+}
+
+@media screen and (max-width: 320px) {
+  body { background: white; }
+}
+
+
+
+.nav {
+  text-align: center;
+}
+
+
+li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 1em 0.5em 1.5em;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 420px) {
+  
+  ul {
+    margin: 1em 0;
+  }
+  
+  li {
+    display: block;
+    padding: 0.5em;
+  }
+
+  

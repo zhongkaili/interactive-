@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'occupy';
+  src: url(occupy.otf) format("opentype");
+}
+ 
+
+form {
+font-family: 'occupy', Lucida Grande, sans-serif;
+font-size: 12Pt; color: blue;
+
+} 
+
+textarea {
+
+width:100%;
+font-family: 'occupy', Lucida Grande, sans-serif;
+font-size: 50Pt; color: black; letter-spacing: -3px;
+line-height: 32px;
+
+}
