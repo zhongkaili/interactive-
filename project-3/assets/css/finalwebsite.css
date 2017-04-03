@@ -1,12 +1,31 @@
+
+ body {
+ -webkit-animation: background 5s cubic-bezier(1,0,0,1) infinite;
+  animation: background 5s cubic-bezier(1,0,0,1) infinite; 
+
+  }
+
+@keyframes background {
+  20% { background-color: white; }
+  33% { background-color: #FFFBF5; }  
+  67% { background-color: #EFFBF5; }
+
+}
+}
+
+
 @font-face {
   font-family: 'occupy';
   src: url(occupy.otf) format("opentype");
 }
- 
 
+ 
 form {
 font-family: 'occupy', Lucida Grande, sans-serif;
-font-size: 12Pt; color: blue;
+font-size: 9Pt; color: black; postion:relative;
+
+
+
 
 } 
 
@@ -16,4 +35,12 @@ width:100%;
 font-family: 'occupy', Lucida Grande, sans-serif;
 font-size: 100Pt; color: black; letter-spacing: -3px;
 line-height: 90px;
+
+}
+
+input[type=text]:focus, textarea:focus {
+  box-shadow: 0 0 50px rgba(81, 203, 238, 1);
+  border: 1px solid rgba(81, 203, 238, 1);
+}
+
 
