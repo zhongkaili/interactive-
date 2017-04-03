@@ -23,10 +23,6 @@
 form {
 font-family: 'occupy', Lucida Grande, sans-serif;
 font-size: 9Pt; color: black; postion:relative;
-
-
-
-
 } 
 
 textarea {
@@ -35,7 +31,6 @@ width:100%;
 font-family: 'occupy', Lucida Grande, sans-serif;
 font-size: 100Pt; color: black; letter-spacing: -3px;
 line-height: 90px;
-
 }
 
 input[type=text]:focus, textarea:focus {
